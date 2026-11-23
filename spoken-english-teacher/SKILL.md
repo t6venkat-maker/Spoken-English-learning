@@ -1,4 +1,3 @@
-
 ---
 name: spoken-english-teacher
 description: Helps Telugu-speaking students learn spoken English through grammar correction, Telugu explanations, vocabulary, examples and conversation practice.
